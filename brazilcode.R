@@ -3,7 +3,7 @@ library(factoextra)
 library(boot)
 library(plotmo)
 
-brazil<-load("~/Brazil_data_census.Rdata")
+load("~/brazil.Rdata")
 source("~/permtestPCA.R") # load permutation test function code
 
 brazil$X<-NULL          #remove X
