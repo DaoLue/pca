@@ -51,7 +51,7 @@ regression. It minimizes the following:
 
 <div class="figure" style="text-align: center">
 
-<img src="brazilconsensus_files/figure-markdown_github/CodeCogsEqn.gif" alt="eq1"  />
+<img src="brazilconsensus_files/figure-markdown_github/Lasso.gif" alt="eq1"  />
 
 </div>
 
@@ -70,6 +70,8 @@ way (Jolliffe and Cadima 2016). PCA is a technique for reducing the
 dimensionality, while simultaneously minimizing information loss. It
 does so by creating new orthogonal variables named principal components.
 Each component is a linear combination the original variables:
+
+<img src="brazilconsensus_files/figure-markdown_github/Zj.gif" alt="eq2"  />
 
 where *Z*<sub>*j*</sub> are the principal components, *γ*<sub>*j*</sub>
 the loading vectors. Finding each component means finding the
