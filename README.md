@@ -1,3 +1,5 @@
+## Short report on income inequality using LASSO and PCA
+
 # 1 Introduction
 
 Brazil, one of the largest emerging economies in the world, has been
