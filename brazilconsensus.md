@@ -53,7 +53,7 @@ regression. It minimizes the following:
 
 <img src="brazilconsensus_files/figure-markdown_github/CodeCogsEqn.gif" alt="Figure 1: Coefficient path LASSO"  />
 
-</div>,
+</div>
 
 where *i* = 1,2, …, *n*, *j* = 1,2, …, *p*, *n* = 3592, *p* = 27,
 *y*<sub>*i*</sub> the values of the 10/40 ratio, and *X* the matrix of
