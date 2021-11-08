@@ -51,7 +51,7 @@ regression. It minimizes the following:
 
 <div class="figure" style="text-align: center">
 
-<img src="brazilconsensus_files/figure-markdown_github/CodeCogsEqn.gif" alt="Figure 1: Coefficient path LASSO"  />
+<img src="brazilconsensus_files/figure-markdown_github/CodeCogsEqn.gif" alt="eq1"  />
 
 </div>
 
