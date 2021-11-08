@@ -49,7 +49,14 @@ selection is performed and multicollinearity is dealt with by this
 technique. A L1 penalty to the residual sum of squares is added by LASSO
 regression. It minimizes the following:
 
-![equation](https://latex.codecogs.com/gif.download?L_%7B%5Ctext%20%7Basso%20%7D%7D%28%5Chat%7B%5Cbeta%7D%29%3D%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%5Cleft%28y_%7Bi%7D-%5Csum_%7Bj%3D1%7D%5E%7Bp%7D%20%7BX%7D%20%5Chat%7B%5Cbeta%7D_%7Bj%7D%5Cright%29%5E%7B2%7D+%5Clambda%20%5Csum_%7Bj%3D1%7D%5E%7Bp%7D%5Cleft%7C%5Chat%7B%5Cbeta%7D_%7Bj%7D%5Cright%7C)
+<div class="figure" style="text-align: center">
+
+<img src="brazilconsensus_files/figure-markdown_github/CodeCogsEqn.gif" alt="Figure 1: Coefficient path LASSO"  />
+<p class="caption">
+Figure 1: Coefficient path LASSO
+</p>
+
+</div>
 
 where *i* = 1,2, …, *n*, *j* = 1,2, …, *p*, *n* = 3592, *p* = 27,
 *y*<sub>*i*</sub> the values of the 10/40 ratio, and *X* the matrix of
