@@ -53,7 +53,7 @@ regression. It minimizes the following:
 
 <div class="figure" style="text-align: center">
 
-<img src="brazilconsensus_files/figure-markdown_github/lassonot.png" alt="eq1"  />
+<img src="brazilconsensus_files/figure-markdown_github/lassonotat.gif" alt="eq1"  />
 
 </div>
 
