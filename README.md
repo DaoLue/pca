@@ -1,4 +1,4 @@
-## Short report on income inequality using LASSO and PCA
+#Income inequality: LASSO and PCA
 
 # 1 Introduction
 
