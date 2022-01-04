@@ -57,7 +57,6 @@ regression. It minimizes the following:
 
 </div>
 
-$L_{\text {asso }}(\beta)=\sum_{i=1}^{n}\left(y_{i}-\sum_{j=1}^{p} {X} \beta_{j}\right)^{2}+\lambda \sum_{j=1}^{p}\left|\beta_{j}\right|,$
 where *i* = 1,2, …, *n*, *j* = 1,2, …, *p*, *n* = 3592, *p* = 27,
 *y*<sub>*i*</sub> the values of the 10/40 ratio, and *X* the matrix of
 predictor variables. This is identical to minimizing the sum of squares
