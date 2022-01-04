@@ -60,7 +60,7 @@ regression. It minimizes the following:
 where *i* = 1,2, …, *n*, *j* = 1,2, …, *p*, *n* = 3592, *p* = 27,
 *y*<sub>*i*</sub> the values of the 10/40 ratio, and *X* the matrix of
 predictor variables. This is identical to minimizing the sum of squares
-with constraint $\\sum\_{j=1}^{p}\\left\|\\beta\_{j}\\right\| \\leq s$
+with constraint <img src="brazilconsensus_files/figure-markdown_github/constraint.gif" alt="eq1"  /> 
 for *s* \> 0. The optimal value of *λ* is chosen using 10-fold cross
 validation and corresponds to the smallest in-sample root mean square
 error (RMSE).
