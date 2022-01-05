@@ -1,4 +1,4 @@
-#Income inequality: LASSO and PCA
+# Income inequality: LASSO and PCA
 
 # 1 Introduction
 
