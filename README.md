@@ -1,4 +1,4 @@
-# Income inequality: LASSO and PCA
+# Income inequality in Brazil: LASSO and Principal Component Analysis
 
 # 1 Introduction
 
